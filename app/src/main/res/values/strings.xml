@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My_Booking2</string>
+    <string name="date">Date</string>
+    <string name="courts">Courts</string>
+    <string name="my_bookings">My bookings</string>
+    <string name="my_account">My account</string>
+    <string name="select_city">Select city:</string>
+    <string name="selected_item">Selected item:</string>
+    <string-array name="Choose_a_place">
+        <item>Ho Chi Minh</item>
+        <item>Binh Duong</item>
+        <item>Ca Mau</item>
+        <item>Dong Nai</item>
+    </string-array>
+</resources>
